@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaweb-SSOdemo.iml" filepath="$PROJECT_DIR$/javaweb-SSOdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-client/server-client.iml" filepath="$PROJECT_DIR$/server-client/server-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp01/webapp01.iml" filepath="$PROJECT_DIR$/webapp01/webapp01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp02/webapp02.iml" filepath="$PROJECT_DIR$/webapp02/webapp02.iml" />
+    </modules>
+  </component>
+</project>
